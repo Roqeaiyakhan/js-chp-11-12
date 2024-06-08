@@ -9,7 +9,8 @@
 // else{
 //     alert("stop")
 //}
-
+//.......................................................................................................//
+//...........SHOPPING DISCOUNT.........//
 // var  shoopingamount = +prompt("enter your shopping amount")
 
 // if(shoopingamount <= 4999 ){
@@ -21,7 +22,7 @@
 // else{
 //     alert("50% discount")
 // }
-
+//..........................................................................................................//
 
 //DISCOUNT //
 // var noOfItems = +prompt("ap nay kitny chejy khardi?")
@@ -38,7 +39,8 @@
 // }
 
 // console.log(`Your discount is: ${discount}%`)
-   
+
+   //...................................................................................................//
 //........BAADAL........//
 // var baadal = true;
 // if(!baadal){
@@ -47,6 +49,7 @@
 //  else{
 //     console.log("Rain not expected")
 //  }
+//........................................................................................................//
 
 //BRT CARD BALANCE//
 // var cardbalance = +prompt("please your balance")
@@ -56,6 +59,7 @@
 // else {
 //     console.log(` your balance is ${cardbalance} please reaharge your balance`)
 // }
+//............................................................................................................//
 
 //BURGER LENA KHA//
 // var burgerprice = +prompt("how much money in your pocket")
@@ -66,8 +70,7 @@
 // else{
 //     console.log("jb khali kha")
 // }
-
-
+//...........................................................................................................//
 
     //program for even odd///
 //  var num = +prompt("please enter your number")
@@ -77,6 +80,7 @@
 // else{
 //     console.log(`${num} is odd`)
 // }
+//...........................................................................................................//
 
 //ATM CARD//
 // var balance = 3000
@@ -87,7 +91,7 @@
 // else{
 //     console.log("insuffient balance")
 // }
-
+//.............................................................................................................//
 //totalbill for stationary//
 // var  pencil = 10;
 // var notebook = 300;
